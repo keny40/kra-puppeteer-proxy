@@ -1,0 +1,6 @@
+name = "kra-puppeteer-proxy"
+main = "worker.js"
+compatibility_date = "2023-01-01"
+
+[vars]
+NODE_VERSION = "18"
